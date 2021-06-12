@@ -201,7 +201,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 1500px) {
   .buy-tickets {
     margin: 0 15px 0 0;
   }
