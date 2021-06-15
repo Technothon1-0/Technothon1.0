@@ -449,7 +449,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url(../img/hero-bg.jpg) top center;
+  background: url(../img/Background/Website\ Image\ 3.jpg) top center;
   background-size: cover;
   overflow: hidden;
   position: relative;
@@ -640,7 +640,7 @@ h1, h2, h3, h4, h5, h6 {
 # About Section
 --------------------------------------------------------------*/
 #about {
-  background: url("../img/hero-bg.jpg");
+  background: url("../img/Background/Website\ Image\ 3.jpg");
   background-size: cover;
   overflow: hidden;
   position: relative;
